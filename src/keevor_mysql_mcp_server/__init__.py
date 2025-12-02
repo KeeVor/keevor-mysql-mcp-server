@@ -31,7 +31,7 @@ def list_tables() -> str:
                     TABLE_NAME as name,
                     TABLE_COMMENT as comment,
                     ENGINE as engine,
-                    TABLE_ROWS as rows,
+                    TABLE_ROWS as `rows`,
                     CREATE_TIME as created,
                     UPDATE_TIME as updated
                 FROM information_schema.TABLES 
