@@ -24,8 +24,8 @@ dependencies = [
 keevor-mysql-mcp-server = "keevor_mysql_mcp_server:main"
 
 [project.urls]
-Homepage = "https://github.com/keevor/keevor-mysql-mcp-server"
-Repository = "https://github.com/keevor/keevor-mysql-mcp-server"
+Homepage = "https://github.com/KeeVor/keevor-mysql-mcp-server"
+Repository = "https://github.com/KeeVor/keevor-mysql-mcp-server"
 
 [build-system]
 requires = ["hatchling"]
