@@ -1,6 +1,6 @@
 [project]
 name = "keevor-mysql-mcp-server"
-version = "0.2.1"
+version = "1.0.0"
 description = "MCP server for MySQL database operations"
 readme = "README.md"
 requires-python = ">=3.10"
